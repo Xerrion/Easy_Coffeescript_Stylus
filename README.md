@@ -1,7 +1,9 @@
-# Easy_Coffeescript_Stylus
-This is a boilerplate for CoffeeScript and Stylus
-## Install
+# Easy CoffeeScript and Stylus
+This is a boilerplate for CoffeeScript and Stylus.
+The purpose of the boilerplate is to have a completly empty template for ease of use, of CoffeeScript and Stylus without having to create new files for each project.
 
+## Install
+To get sarted with Easy CoffeeScript and Stylus run the following command.
 ```
 npm install
 ```
