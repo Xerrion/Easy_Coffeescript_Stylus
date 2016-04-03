@@ -26,7 +26,5 @@ gulp stylus
 Sources for CoffeeScript and Stylus should be placed in.
 ```
 ./sources/coffeescript
-```
-```
 ./sources/stylus
 ```
