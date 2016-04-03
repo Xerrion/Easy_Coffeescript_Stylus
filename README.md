@@ -25,5 +25,5 @@ gulp stylus
 ## Folder Locations
 Sources for CoffeeScript and Stylus should be placed in.
 > ./sources/coffeescript
-
+>
 > ./sources/stylus
