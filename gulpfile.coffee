@@ -7,7 +7,6 @@ concat = require('gulp-concat')
 minify = require('gulp-clean-css')
 sourcemaps = require('gulp-sourcemaps')
 autoprefixer = require('gulp-autoprefixer')
-del = require('del')
 
 
 # Paths to source and dest foldes
@@ -23,11 +22,6 @@ paths =
 # Concat Files
   coffeescript_concat: 'app.min.js'
   stylus_concat: 'main.min.css'
-
-# Clean build
-gulp.task 'clean', (cb) ->
-  del ['build'], cb
-  return
 
 # Compile CoffeeScript
 gulp.task 'coffeescript', ->
