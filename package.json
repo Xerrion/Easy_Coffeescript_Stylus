@@ -4,7 +4,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/xerrion/coffeescript_.git"
-  }
+  },
   "author": "Lasse Nielsen",
   "homepage": "http://flyingninjas.dk",
   "license": "MIT",
